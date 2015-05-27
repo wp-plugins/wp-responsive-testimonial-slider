@@ -1,7 +1,7 @@
 === WP Responsive Testimonial Slider ===
 Contributors: omikant, wptutorialspoint
 Donate Link: http://wptutorialspoint.com/
-Tags: Testimonial Slider, Testimonials 
+Tags: Testimonial Slider, Testimonials, Testimonials jQuery, Rotating Testimonial Plugin 
 Requires at least: 3.0.1
 Tested up to: 4.2
 Stable tag: 1.0
@@ -11,11 +11,11 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-WP Responsive Testimonial Slider Plugin is for Add Testimonials with this Shortcode '[testimonials]'.
+WP Responsive Testimonial Slider Plugin is for Add Testimonials with this Shortcode '[testimonials]'.For More info please check this Link http://www.wptutorialspoint.com/ .
 
 
 = Shortcode Options =
-As of version 1.0, Please use '[testimonials]' or `<?php echo do_shortcode('[testimonials]'); ?>` shortcodes.
+As of version 1.0, Please use '[testimonials]' or `<?php echo do_shortcode('[testimonials]'); ?>` shortcodes.For More info please check this Link http://www.wptutorialspoint.com/ .
 
 = Credits =
 

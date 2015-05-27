@@ -1,9 +1,9 @@
 <?php
 /**
 * Plugin Name: WP Responsive Testimonial Slider
-* Description: WP Responsive Testimonial Slider Plugin is for Add Testimonials with this Shortcode '[testimonials]'.
+* Description: WP Responsive Testimonial Slider Plugin is for Add Testimonials with this Shortcode '[testimonials]'. For More info please check this Link http://www.wptutorialspoint.com/ .
 * Version: 1.0.0
-* Author: omikant
+* Author: omikant, wptutorialspoint
 * Author URI: https://profiles.wordpress.org/omikant
 * License: GPL2
 */
